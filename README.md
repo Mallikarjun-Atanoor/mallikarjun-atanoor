@@ -7,8 +7,7 @@
 * Cloud: AWS
 * Infrastructure as Code: Terraform
 * Containerization & Orchestration: Docker, Kubernetes
-* CI/CD: Git, Jenkins
-* GitOps & Continuous Delivery: Argo CD
+* GitOps & CI/CD: GIT, Jenkins, Argo CD, AWS Codepipeline
 * ITSM, Incident & Major Incident Management: BMC Remedy, ServiceNow
 * Disaster Recovery Planning
 * Monitoring & Observability: Prometheus, Grafana, Datadog
