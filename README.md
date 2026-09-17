@@ -13,7 +13,6 @@
 * Monitoring & Observability: Prometheus, Grafana, Datadog
 * Cloud Security & IAM
 * SRE Practices
-* Cloud Cost Optimization: Apptio
 
 ---
 
